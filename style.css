@@ -5,9 +5,8 @@
 
 #container{
   box-sizing: border-box;
-  padding: 88px 80px 0 80px;
+  padding: 88px 80px 48px 80px;
   width: 1120px;
-
 }
 
 img{
@@ -44,6 +43,9 @@ header h1{
   margin: 20px 0 4px 0;
 }
 
+#cardtravel{
+  padding: 48px 0 48px 0;
+}
 
 .divider {
   width: 100%;
@@ -54,4 +56,8 @@ header h1{
 
 #finaldescription{
   padding-bottom: 65px;
+}
+
+footer{
+  text-align: center;
 }
