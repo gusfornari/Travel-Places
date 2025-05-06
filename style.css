@@ -66,6 +66,9 @@ font-weight: 400;
   padding: 48px 0 48px 0;
 }
 
+#list br+p{
+  font-weight: 700;
+}
 
 .divider {
   width: 100%;
