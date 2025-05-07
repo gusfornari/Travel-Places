@@ -17,6 +17,11 @@ img{
   width: 100%;
 }
 
+header p {
+  color: #E1624F;
+  text-transform: uppercase;
+}
+
 header h1{
   margin-top: 8px;
 }
@@ -33,6 +38,8 @@ header h1{
 #description p {
   margin-top: 24px;
   font-weight: 400;
+  font-style: italic;
+  text-align: center;
 }
 
 
@@ -41,6 +48,11 @@ header h1{
     height: 1px;
     margin: 0;
     background-color: #d9d9d9;
+}
+
+#contentlist h4{
+  color: #E1624F;
+  text-transform: uppercase;
 }
 
 #contentlist h2+p{
@@ -54,13 +66,16 @@ font-weight: 400;
 #contentlist h2{
   margin: 2px 0px 8px 0;
 }
+
 #list p {
   font-weight: 400;
 }
 
+
 #list h2 {
   margin: 20px 0 4px 0;
 }
+
 
 #cardtravel{
   padding: 48px 0 48px 0;
@@ -69,6 +84,8 @@ font-weight: 400;
 #list br+p{
   font-weight: 700;
 }
+
+  
 
 .divider {
   width: 100%;
